@@ -15,4 +15,8 @@
       <_ContentIncludedByDefault Remove="wwwroot\images\logo.png" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\images\avatar\" />
+    </ItemGroup>
+
 </Project>
